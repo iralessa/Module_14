@@ -10,7 +10,7 @@ from aiogram.utils import executor
 import asyncio
 
 get_all_products()
-api = "7428623320:AAGBPHbmgblxRb1hRcUtf3QrNCcaNUE5k18"
+api = "_________________________________________"
 bot = Bot(token=api)
 storage = MemoryStorage()
 dp = Dispatcher(bot, storage=storage)
